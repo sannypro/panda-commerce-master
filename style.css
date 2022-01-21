@@ -1,0 +1,17 @@
+.color{
+    color: #FF136F;
+    
+}
+.bg-color-button{
+    background-color: #FF136F;
+
+}
+.banner{
+    background-color: #FEEAE9;
+}
+.catagory-bg{
+    background-image: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);;
+}
+.border-radius{
+    border-radius: 20px;
+}
